@@ -1,7 +1,7 @@
 - 浏览器
-  - 可拓浏览器（Chrome 内核，可装扩展）
+  - 可拓浏览器（Chrome 内核，可装扩展）https://ktllq.cn/#download
 - 影视
   - BBLL [一个第三方哔哩哔哩客户端](https://github.com/xiaye13579/BBLL)
 - Advanced 操作
-  - Rotation 屏幕旋转 （浏览器搜索下载，安装后禁止联网）
-  - spacedesk （将 Pad 当做屏幕）https://www.spacedesk.net/
+  - Rotation 屏幕旋转 （浏览器 or 应用商店搜索下载，安装后禁止联网）
+  - spacedesk （将 Pad 当做屏幕）（科学上网，浏览器 or 应用商店搜索下载）https://www.spacedesk.net/
