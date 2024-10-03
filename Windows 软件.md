@@ -12,7 +12,7 @@
 - 解压缩：
   - 360压缩 https://yasuo.360.cn/  
 - Office 办公（Word、Excel、PPT）
-  - WPS（教育考试专用版） Officehttps://ncre.neea.edu.cn/html1/report/1507/861-1.htm  
+  - WPS（教育考试专用版） Office https://ncre.neea.edu.cn/html1/report/1507/861-1.htm  
   - Office（微软“服务和订阅”） https://account.microsoft.com/services?lang=zh-CN&refd=account.microsoft.com
 - 极客卸载 https://geekuninstaller.com/download  
 - 电子书阅读器 koodo-reader https://github.com/koodo-reader/koodo-reader/blob/master/README_cn.md  
