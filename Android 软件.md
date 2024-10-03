@@ -25,6 +25,7 @@
 - 文件管理
   - MT管理器 https://mt2.cn/
 - Android Advanced 操作
+  - 冰箱 Ice Box （应用冻结）（酷安或其他渠道下载）
   - 轻启动 https://wpengapp.com/lightstart/dl
   - 一指禅 （123云盘）https://www.123pan.com/s/HES1jv-havy3
   - spacedesk （科学上网，或通过应用商店下载）https://www.spacedesk.net/
