@@ -9,9 +9,9 @@
 - MouseInc 离线界面设置 https://github.com/shuax/MouseInc.Settings/releases
 
 ## Windows 默认应用 & 常用软件 & 装机必备
-### - 解压缩：
+ - 解压缩：
   - 360压缩 https://yasuo.360.cn/  
-### - Office 办公（Word、Excel、PPT）
+ - Office 办公（Word、Excel、PPT）
   - WPS（教育考试专用版） Officehttps://ncre.neea.edu.cn/html1/report/1507/861-1.htm  
   - Office（微软“服务和订阅”） https://account.microsoft.com/services?lang=zh-CN&refd=account.microsoft.com
 - 极客卸载 https://geekuninstaller.com/download  
