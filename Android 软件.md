@@ -1,0 +1,16 @@
+- QQ输入法 https://qq.pinyin.cn/index_mobile.php
+- 音乐
+  - 落雪音乐https://lxmusic.toside.cn/download
+- 浏览器
+  - Via浏览器 https://viayoo.com/zh-cn/
+  - 可拓浏览器（Chrome 内核，可装扩展）https://ktllq.cn/#download
+- 应用商店&软件市场
+  - 酷安 https://www.coolapk.com/
+  - 豌豆荚（可选历史版本）https://www.wandoujia.com/
+  - https://apkpremier.com/
+  - 奇妙应用（已经不奇妙了） https://www.123pan.cn/s/izDSVv-WP1WA.html
+- 文件管理
+ - MT管理器https://mt2.cn/
+- Android Advanced 操作
+ - 轻启动 https://wpengapp.com/lightstart/dl
+ - 一指禅 （123云盘）https://www.123pan.com/s/HES1jv-havy3
