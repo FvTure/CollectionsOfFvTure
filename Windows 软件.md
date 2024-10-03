@@ -1,5 +1,5 @@
-# Windows 软件
-## 开机自启
+## Windows 软件
+#### 开机自启
 - memreduct 内存清理 https://github.com/henrypp/memreduct/releases  
 - TrafficMonitor 资源监控（网速、内存占用、CPU占用等）https://github.com/zhongyang219/TrafficMonitor  
   - TrafficMonitor 插件 https://github.com/zhongyang219/TrafficMonitorPlugins/blob/main/download/plugin_download.md  
@@ -8,7 +8,7 @@
 - 久坐提醒 心柠健康助手 https://qn.jianxiannet.com/  
 - MouseInc 离线界面设置 https://github.com/shuax/MouseInc.Settings/releases
 
-## Windows 默认应用 & 常用软件 & 装机必备
+#### Windows 默认应用 & 常用软件 & 装机必备
 - 解压缩：
   - 360压缩 https://yasuo.360.cn/  
 - Office 办公（Word、Excel、PPT）
@@ -22,7 +22,7 @@
   - 主页：https://blog.csdn.net/vbcom/article/details/7245186  
   - 蓝奏：https://zhangyue667.lanzouh.com/DirectXRepairEnhanced  
 
-## Windows Advanced 设置/玩机/折腾
+#### Windows Advanced 设置/玩机/折腾
   - AMD 瑞龙处理器控制器 https://gitlab.com/ryzen-controller-team/ryzen-controller  
   - 联想工具箱 LenovoLegionToolkit https://github.com/BartoszCichecki/LenovoLegionToolkit/releases  
   - 联想 Quick Fix Tool https://iknowledge.lenovo.com.cn/tool
