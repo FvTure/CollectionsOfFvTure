@@ -1,5 +1,11 @@
 ## Windows 软件
-#### 开机自启
+> 若浏览器中找不到想要的软件，可以尝试以下几个商店：
+> 360软件宝库 https://baoku.360.cn/baokuweb.html
+> 腾讯软件中心 https://pc.qq.com/
+> 联想应用商店 https://lestore.lenovo.com/
+> 搜狗下载 https://xiazai.sogou.com/pc/index?searchTab=computer
+
+#### 我的 Windows 开机自启
 - memreduct 内存清理 https://github.com/henrypp/memreduct/releases  
 - TrafficMonitor 资源监控（网速、内存占用、CPU占用等）https://github.com/zhongyang219/TrafficMonitor  
   - TrafficMonitor 插件 https://github.com/zhongyang219/TrafficMonitorPlugins/blob/main/download/plugin_download.md  
