@@ -23,6 +23,6 @@
   - 蓝奏：https://zhangyue667.lanzouh.com/DirectXRepairEnhanced  
 
 ## - Windows Advanced 设置/玩机/折腾
-  -AMD 瑞龙处理器控制器 https://gitlab.com/ryzen-controller-team/ryzen-controller  
-  -联想工具箱 LenovoLegionToolkit https://github.com/BartoszCichecki/LenovoLegionToolkit/releases  
-  -联想 Quick Fix Tool https://iknowledge.lenovo.com.cn/tool
+  - AMD 瑞龙处理器控制器 https://gitlab.com/ryzen-controller-team/ryzen-controller  
+  - 联想工具箱 LenovoLegionToolkit https://github.com/BartoszCichecki/LenovoLegionToolkit/releases  
+  - 联想 Quick Fix Tool https://iknowledge.lenovo.com.cn/tool
