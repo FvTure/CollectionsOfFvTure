@@ -1,6 +1,6 @@
 ## Windows 软件
 > 若浏览器中找不到想要的软件，可以尝试以下几个商店：  
-> 360软件宝库 https://baoku.360.cn/baokuweb.html  
+> 360软件宝库 https://baoku.360.cn/baokuweb.html（请点击“普通下载”）  
 > 腾讯软件中心 https://pc.qq.com/  
 > 联想应用商店 https://lestore.lenovo.com/  
 > 搜狗下载 https://xiazai.sogou.com/pc/index?searchTab=computer  
