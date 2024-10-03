@@ -8,4 +8,4 @@ Windows 10 https://www.microsoft.com/zh-cn/software-download/windows10
 Windows 11 https://www.microsoft.com/zh-cn/software-download/windows11  
 win10 第三方游戏版 https://atlasos.net/  
 ## LTSC 老坛酸菜
-为Windows 10 Enterprise LTSC增加应用商店 https://github.com/kkkgo/LTSC-Add-MicrosoftStore  
+- 为Windows 10 Enterprise LTSC增加应用商店 https://github.com/kkkgo/LTSC-Add-MicrosoftStore  
