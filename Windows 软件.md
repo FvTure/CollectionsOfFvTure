@@ -11,8 +11,9 @@
   - TrafficMonitor 插件 https://github.com/zhongyang219/TrafficMonitorPlugins/blob/main/download/plugin_download.md  
 - QQ输入法 https://qq.pinyin.cn/  
 - pixpin 截图 https://pixpinapp.com/  
-- 久坐提醒 心柠健康助手 https://qn.jianxiannet.com/  
-- MouseInc 离线界面设置 https://github.com/shuax/MouseInc.Settings/releases
+- 久坐提醒 心柠健康助手 https://qn.jianxiannet.com/
+- MouseInc（全局鼠标手势） https://www.123pan.com/s/HES1jv-3avy3
+  - MouseInc 离线界面设置 https://github.com/shuax/MouseInc.Settings/releases
 
 #### Windows 默认应用 & 常用软件 & 装机必备
 - 解压缩：
