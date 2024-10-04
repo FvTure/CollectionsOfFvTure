@@ -7,6 +7,7 @@
 - 壁纸
   - 极简壁纸 https://bz.zzzmh.cn/index
 - 其他
+  - 打字打字 https://dazidazi.com/
   - 程序员技能图谱 https://github.com/TeamStuQ/skill-map
   - 程序员应该访问的最佳网站中文版 https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh
   - 程序员在家做饭方法指南 https://github.com/Anduin2017/HowToCook
