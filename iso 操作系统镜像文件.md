@@ -11,6 +11,7 @@
 - win10 第三方游戏版 https://atlasos.net/  
 ### 系统设置
 - #### Windows Advanced 设置
+  - Windows 资源管理器导航窗格设置 https://www.bilibili.com/read/cv27494149/
   - DirectX修复工具增强版
     - 主页 https://blog.csdn.net/vbcom/article/details/7245186
     - 蓝奏 https://zhangyue667.lanzouh.com/DirectXRepairEnhanced
