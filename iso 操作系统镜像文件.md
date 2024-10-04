@@ -1,11 +1,20 @@
-Ventoy（新一代多系统启动U盘解决方案） https://www.ventoy.net/cn/  
-微PE工具箱 https://www.wepe.com.cn/   
-我告诉你：
-    新址（需登录）https://next.itellyou.cn/   
-    旧址（免登陆）https://msdn.itellyou.cn/  
-爱好论坛（密钥分享） https://www.aihao.cc/  
-Windows 10 https://www.microsoft.com/zh-cn/software-download/windows10  
-Windows 11 https://www.microsoft.com/zh-cn/software-download/windows11  
-win10 第三方游戏版 https://atlasos.net/  
-## LTSC 老坛酸菜
-- 为Windows 10 Enterprise LTSC增加应用商店 https://github.com/kkkgo/LTSC-Add-MicrosoftStore  
+- Ventoy（新一代多系统启动U盘解决方案） https://www.ventoy.net/cn/  
+- 微PE工具箱 https://www.wepe.com.cn/   
+- 我告诉你：
+    - 新址（需登录）https://next.itellyou.cn/   
+    - 旧址（免登陆）https://msdn.itellyou.cn/  
+- 爱好论坛（密钥分享） https://www.aihao.cc/
+- Windows 官方镜像 
+  - Windows 10 https://www.microsoft.com/zh-cn/software-download/windows10  
+  - Windows 11 https://www.microsoft.com/zh-cn/software-download/windows11  
+- win10 第三方游戏版 https://atlasos.net/  
+- Windows Advanced 设置
+  - DirectX修复工具增强版
+    - 主页 https://blog.csdn.net/vbcom/article/details/7245186
+    - 蓝奏 https://zhangyue667.lanzouh.com/DirectXRepairEnhanced
+  - 图吧工具箱 https://www.tbtool.cn/
+  - AMD 瑞龙处理器控制器 https://gitlab.com/ryzen-controller-team/ryzen-controller
+  - 联想工具箱 LenovoLegionToolkit https://github.com/BartoszCichecki/LenovoLegionToolkit/releases
+  - 联想 Quick Fix Tool https://iknowledge.lenovo.com.cn/tool
+  - LTSC 老坛酸菜
+    - 为Windows 10 Enterprise LTSC增加应用商店 https://github.com/kkkgo/LTSC-Add-MicrosoftStore  
