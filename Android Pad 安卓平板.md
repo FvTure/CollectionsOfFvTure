@@ -1,4 +1,4 @@
-> 参考[Android 软件](https://github.com/FvTure/favorite-of-FvTure/blob/main/Android%20%E8%BD%AF%E4%BB%B6.md)
+> 参考[Android 软件](https://github.com/FvTure/favorites-of-FvTure/blob/main/Android%20%E8%BD%AF%E4%BB%B6.md)
 
 - 浏览器
   - 可拓浏览器（Chrome 内核，可装扩展）https://ktllq.cn/#download
