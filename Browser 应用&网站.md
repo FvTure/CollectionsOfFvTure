@@ -1,5 +1,12 @@
 - AI 助手
- - 文小言（文心一言）
- - 腾讯元宝
- - 讯飞星火
- - 通义千问
+  - 文小言（百度，文心一言）https://yiyan.baidu.com/
+  - 腾讯元宝 https://yuanbao.tencent.com/chat/
+  - 讯飞星火 https://xinghuo.xfyun.cn/desk
+  - 通义千问（阿里）https://tongyi.aliyun.com/qianwen/
+  - 抖音豆包 https://www.doubao.com/chat/
+- 壁纸
+  - 极简壁纸 https://bz.zzzmh.cn/index
+- 其他
+  - 程序员技能图谱 https://github.com/TeamStuQ/skill-map
+  - 程序员应该访问的最佳网站中文版 https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh
+  - 程序员在家做饭方法指南 https://github.com/Anduin2017/HowToCook
