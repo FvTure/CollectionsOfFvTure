@@ -26,7 +26,7 @@
   - Markdown
     - Typora （收费，去第三方渠道找最后一个免费版）
   - Xmind 思维导图 https://xmind.cn/
-  - ProcessON https://www.processon.com/login
+  - ProcessOn https://www.processon.com/login
   - GeoGebra（数学几何工具）https://www.geogebra.org/
 - 360 文件夹（多标签，可添加收藏夹）（不要点“安全下载”，页面下滑找到“普通下载”）  
   https://baoku.360.cn/soft/show/appid/2000003908
