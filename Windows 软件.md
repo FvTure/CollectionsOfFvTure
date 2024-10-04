@@ -31,6 +31,7 @@
   - 蓝奏：https://zhangyue667.lanzouh.com/DirectXRepairEnhanced  
 
 #### Windows Advanced 设置/玩机/折腾
+  - 进程管理（可用于定位广告、弹窗、插件路径） https://learn.microsoft.com/zh-cn/sysinternals/downloads/process-explorer#download
   - AMD 瑞龙处理器控制器 https://gitlab.com/ryzen-controller-team/ryzen-controller  
   - 联想工具箱 LenovoLegionToolkit https://github.com/BartoszCichecki/LenovoLegionToolkit/releases  
   - 联想 Quick Fix Tool https://iknowledge.lenovo.com.cn/tool
