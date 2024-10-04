@@ -22,6 +22,12 @@
 - Office 办公（Word、Excel、PPT）
   - WPS（教育考试专用版） https://ncre.neea.edu.cn/html1/report/1507/861-1.htm  
   - Office（微软“服务和订阅”） https://account.microsoft.com/services?lang=zh-CN&refd=account.microsoft.com
+- 创作：笔记&思维导图&流程图
+  - Markdown
+    - Typora （收费，去第三方渠道找最后一个免费版）
+  - Xmind 思维导图 https://xmind.cn/
+  - ProcessON https://www.processon.com/login
+  - GeoGebra（数学几何工具）https://www.geogebra.org/
 - 360 文件夹（多标签，可添加收藏夹）（不要点“安全下载”，页面下滑找到“普通下载”）  
   https://baoku.360.cn/soft/show/appid/2000003908
 - Steam++ （Watt Toolkit） （可用于访问Github、steam等）https://steampp.net/
