@@ -9,4 +9,4 @@
   - 静读天下（谷歌商店，或其他渠道）https://www.moondownload.com/download.html
 - Advanced 操作
   - Rotation 屏幕旋转 （浏览器 or 应用商店搜索下载，安装后禁止联网）
-  - spacedesk （将 Pad 当做屏幕）（科学上网，浏览器 or 应用商店搜索下载）https://www.spacedesk.net/
+  - spacedesk （将 Pad 当做Windows 扩展屏幕）（科学上网，浏览器 or 应用商店搜索下载）https://www.spacedesk.net/
