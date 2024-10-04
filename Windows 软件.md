@@ -22,6 +22,8 @@
 - Office 办公（Word、Excel、PPT）
   - WPS（教育考试专用版） https://ncre.neea.edu.cn/html1/report/1507/861-1.htm  
   - Office（微软“服务和订阅”） https://account.microsoft.com/services?lang=zh-CN&refd=account.microsoft.com
+- 360 文件夹（多标签，可添加收藏夹）（不要点“安全下载”，页面下滑找到“普通下载”）  
+  https://baoku.360.cn/soft/show/appid/2000003908
 - 极客卸载 https://geekuninstaller.com/download  
 - 电子书阅读器 koodo-reader https://github.com/koodo-reader/koodo-reader/blob/master/README_cn.md  
 - 在线音乐 落雪音乐 https://github.com/lyswhut/lx-music-desktop/releases  
