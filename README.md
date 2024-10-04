@@ -10,6 +10,4 @@
 
 [浏览器扩展&插件&脚本推荐](https://github.com/FvTure/favorite-of-FvTure/blob/main/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95%26%E6%8F%92%E4%BB%B6%26%E8%84%9A%E6%9C%AC.md)  
 
-[iso 操作系统镜像文件](https://github.com/FvTure/favorite-of-FvTure/blob/main/iso%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%95%9C%E5%83%8F%E6%96%87%E4%BB%B6.md)  
-
-Android TV 软件（待整理）  
+[浏览器 网站&应用推荐](https://github.com/FvTure/favorite-of-FvTure/blob/main/Browser%20%E5%BA%94%E7%94%A8%26%E7%BD%91%E7%AB%99.md)
