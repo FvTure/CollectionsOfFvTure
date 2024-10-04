@@ -10,7 +10,7 @@
   - 小黑屋 （可用于禁用默认桌面）https://stopapp.https.gs/download.html
 - 桌面
   - 当贝桌面 https://www.dangbei.com/zhuomian/
-  - （慎用）选择任意一个应用把他设置为Launcher https://github.com/barry-ran/QtScrcpy
+  - （慎用）选择任意一个应用把他设置为Launcher https://github.com/tumuyan/AnyLauncher
 - 影视
   - TVBox （待整理）
   - 阿里云盘TV（第三方） https://aliyunpantv.pages.dev/
