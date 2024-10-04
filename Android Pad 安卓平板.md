@@ -3,7 +3,7 @@
 - 浏览器
   - 可拓浏览器（Chrome 内核，可装扩展）https://ktllq.cn/#download
 - 影视
-  - BBLL [一个第三方哔哩哔哩客户端](https://github.com/xiaye13579/BBLL)
+  - BBLL （一个第三方哔哩哔哩客户端） https://github.com/xiaye13579/BBLL
 - 图书 & 阅读
   - Zlibrary（国内禁止分享）
   - 静读天下（谷歌商店，或其他渠道）https://www.moondownload.com/download.html
