@@ -6,7 +6,7 @@
 > 搜狗下载 https://xiazai.sogou.com/pc/index?searchTab=computer  
 > 软仓（用爱发电）https://ruancang.net/  
 
-#### 我的 Windows 开机自启
+### 我的 Windows 开机自启
 - memreduct 内存清理 https://github.com/henrypp/memreduct/releases  
 - TrafficMonitor 资源监控（网速、内存占用、CPU占用等）https://github.com/zhongyang219/TrafficMonitor  
   - TrafficMonitor 插件 https://github.com/zhongyang219/TrafficMonitorPlugins/blob/main/download/plugin_download.md  
@@ -16,7 +16,7 @@
 - MouseInc（全局鼠标手势） https://www.123pan.com/s/HES1jv-3avy3
   - MouseInc 离线界面设置 https://github.com/shuax/MouseInc.Settings/releases
 
-#### Windows 默认应用 & 常用软件 & 装机必备
+### Windows 默认应用 & 常用软件 & 装机必备
 - 解压缩：
   - 360压缩 https://yasuo.360.cn/  
 - Office 办公（Word、Excel、PPT）
@@ -33,7 +33,7 @@
   - 主页：https://blog.csdn.net/vbcom/article/details/7245186  
   - 蓝奏：https://zhangyue667.lanzouh.com/DirectXRepairEnhanced  
 
-#### Windows Advanced 设置/玩机/折腾
+### Windows Advanced 设置/玩机/折腾 （参考[Windows Advanced 设置](https://github.com/FvTure/favorites-of-FvTure/blob/main/iso%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%95%9C%E5%83%8F%E6%96%87%E4%BB%B6.md#windows-advanced-%E8%AE%BE%E7%BD%AE)）
   - 进程管理（可用于定位广告、弹窗、插件路径） https://learn.microsoft.com/zh-cn/sysinternals/downloads/process-explorer#download
   - AMD 瑞龙处理器控制器 https://gitlab.com/ryzen-controller-team/ryzen-controller  
   - 联想工具箱 LenovoLegionToolkit https://github.com/BartoszCichecki/LenovoLegionToolkit/releases  
