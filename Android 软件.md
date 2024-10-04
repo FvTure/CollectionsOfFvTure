@@ -11,7 +11,7 @@
 - 应用商店&软件市场
   - 酷安 https://www.coolapk.com/
   - 豌豆荚（可选历史版本）https://www.wandoujia.com/
-  - apkpremier https://apkpremier.com/
+  - APKPremier https://apkpremier.com/
   - 奇妙应用（已经不奇妙了） https://www.123pan.cn/s/izDSVv-WP1WA.html
 - 字典
   - 百度汉语
