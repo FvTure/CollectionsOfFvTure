@@ -3,7 +3,8 @@
 > 360软件宝库 https://baoku.360.cn/baokuweb.html （请点击“普通下载”）  
 > 腾讯软件中心 https://pc.qq.com/  
 > 联想应用商店 https://lestore.lenovo.com/  
-> 搜狗下载 https://xiazai.sogou.com/pc/index?searchTab=computer  
+> 搜狗下载 https://xiazai.sogou.com/pc/index?searchTab=computer
+> 阮仓（用爱发电）https://ruancang.net/  
 
 #### 我的 Windows 开机自启
 - memreduct 内存清理 https://github.com/henrypp/memreduct/releases  
